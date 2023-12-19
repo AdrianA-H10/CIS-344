@@ -218,7 +218,7 @@ class HospitalPortalHandler(BaseHTTPRequestHandler):
                       <label for="doctor_id">Doctor ID:</label>\
                       <input type="number" id="doctor_id" name="doctor_id"><br><br>\
                       <label for="appointment_date">Appointment Date:</label>\
-                      <input type="date"id="appointment_date" name="appointment_date"><br><br>\ 
+                      <input type="date"id="appointment_date" name="appointment_date"><br><br>\
                       <label for="appointment_time">Appointment Time:</label>\
                       <input type="number" step="any"id="appointment_time" name="appointment_time"><br><br>\
                       <input type="submit" value="Submit">\
